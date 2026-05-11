@@ -1,0 +1,15 @@
+# Büyük model dosyası (GitHub'a yüklenmez - ayrıca paylaşılacak)
+best.pt
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Geçici dosyalar
+temp_*.jpg
+uploads/

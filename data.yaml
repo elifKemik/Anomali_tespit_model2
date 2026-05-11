@@ -1,0 +1,21 @@
+path: ./dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 14
+names:
+  0: "anold chiari malformation"
+  1: "arachnoid cyst"
+  2: "cerebellah hypoplasia"
+  3: "cisterna magna"
+  4: "colphocephaly"
+  5: "encephalocele"
+  6: "holoprosencephaly"
+  7: "hydracenphaly"
+  8: "intracranial hemorrdge"
+  9: "intracranial tumor"
+  10: "mild ventriculomegaly"
+  11: "moderate ventriculomegaly"
+  12: "polencephaly"
+  13: "severe ventriculomegaly"
